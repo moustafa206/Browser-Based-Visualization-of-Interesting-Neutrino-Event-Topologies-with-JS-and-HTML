@@ -18,9 +18,7 @@ Below are visualizations of various interesting neutrino events reconstructed us
 
 | Event Displays |
 | :---: |
-| ![Event 1](https://drive.google.com/file/d/19RsYXHeST2GJcXo8WPgoyeTznkPUKgWV/view?usp=sharing) ![Event 2](path_to_image2) |
-| ![Event 3](path_to_image3) ![Event 4](path_to_image4) |
-| ![Event 5](path_to_image5) ![Event 6](path_to_image6) |
+| ![Event 1](https://h.top4top.io/p_3403ys1gs1.png) ![Event 2](https://d.top4top.io/p_3403tfqi61.png) |
 
 ---
 
