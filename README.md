@@ -1,6 +1,6 @@
 # Browser-Based Visualization of Neutrino Event Topologies
 
-## Task 3: Browser-Based Visualization of Interesting Neutrino Event Topologies with JS and HTML
+##  Browser-Based Visualization of Interesting Neutrino Event Topologies with JS and HTML
 
 While histograms are useful for handling numeric values, visualizing decays and trajectory paths becomes almost essential for understanding the interactions. 
 
