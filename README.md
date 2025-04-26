@@ -8,7 +8,6 @@ In this project, we developed a program to model these interactions, with the pr
 
 Although the OPERA experiment recorded a total of 19,905 neutrino interactions, only 10 of these were confirmed as τ leptons [7]. In 2018, OPERA announced the discovery of ντ appearance in a muon neutrino beam, with a significance of 6.1 σ [8].
 
-Unlike previous tasks that employed C++ and the ROOT framework, this task utilized **JavaScript** and **HTML** for the visualization.
 
 ---
 
