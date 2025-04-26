@@ -18,17 +18,15 @@ Below are visualizations of various interesting neutrino events reconstructed us
 
 | Event Displays |
 | :---: |
-| ![Event 1](path_to_image1) ![Event 2](path_to_image2) |
+| ![Event 1](https://drive.google.com/file/d/19RsYXHeST2GJcXo8WPgoyeTznkPUKgWV/view?usp=sharing) ![Event 2](path_to_image2) |
 | ![Event 3](path_to_image3) ![Event 4](path_to_image4) |
 | ![Event 5](path_to_image5) ![Event 6](path_to_image6) |
-
-> **Note:** Replace `path_to_imageX` with the correct relative path to your images.
 
 ---
 
 ## References
 
-[7] OPERA Collaboration, "Discovery of tau neutrino appearance," (Year).
+[7] OPERA Collaboration, "Discovery of tau neutrino appearance," 
 
 [8] OPERA Collaboration, "Final results of tau neutrino appearance," (2018).
 
